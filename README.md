@@ -1,26 +1,14 @@
-# Hi there! I'm Sabrina 👋
-I'm a student majoring in computer science. I'm a C/C++ developer and interested in low-level programming, operating systems, and compilers. My goal is to become a software engineer at a leading tech company, where I can improve my skills, network with other developers, and contribute to diversity in tech! I believe that technology is a powerful tool for change and I strive to be a part of that change.
-
-## Skills and Tools 🛠️
-
-- Languages
-  - C
-  - C++
-  - Java
-  - C#
-- Scripting Languages
-  - Python
-  - Powershell
-  - Bash
-  - GDScript
-- Build Tools
-  - CMake, Scons, Make
-- Editors
-  - Visual Studio Code, Visual Studio 2022, IntelliJ, Vim, Nano
-
-## Experience
-
-- I've successfully compiled and ran a Gentoo Linux system
-- A multitude of unfinished C++ programs, however I have learned a lot from them.
-  - I have ran the hello world for Vulkan. I understand the basics of setting up a graphical environment
-  - I understand now the graphics pipeline, compute shaders, etc.
+#### Experience 👩‍💻
+- All things Linux!
+  - 🛠️ Compiled a Gentoo Linux kernel and designed a Gentoo based Linux system.
+    - 🧬 TODO upload Kernel config.
+  - ⚙️ Setup and used an Arch Linux development environment.
+    - 🧬 TODO upload bash scripts, dot files, etc.
+  - 🚗 Used Fedora Linux on and off for quite some time.
+- I can code using a multitude of different programming langues.
+  - 👩‍🎓 Most experienced with C & C++.
+    - 🔺 For example, I wrote an OpenGL & Vulkan hello world triangle using C++.
+    - ℹ️ Written a statusbar for i3 & SwayWM in C.
+    - 🟦 Used the GDExtension API for fun to interface with the Godot Game engine.
+  - ☕ Spent a year in AP Computer Science using Java.
+  - 🐍 Learnt to code with Python.
