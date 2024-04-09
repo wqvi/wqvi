@@ -1,9 +1,7 @@
 #### Experience 👩‍💻
 - All things Linux!
   - 🛠️ Compiled a Gentoo Linux kernel and designed a Gentoo based Linux system.
-    - 🧬 TODO upload Kernel config.
   - ⚙️ Setup and used an Arch Linux development environment.
-    - 🧬 TODO upload bash scripts, dot files, etc.
   - 🚗 Used Fedora Linux on and off for quite some time.
 - I can code using a multitude of different programming langues.
   - 👩‍🎓 Most experienced with C & C++.
