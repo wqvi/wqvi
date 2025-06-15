@@ -1,13 +1,2 @@
-#### Experience 👩‍💻
-- All things Linux!
-  - 🛠️ Compiled a Gentoo Linux kernel and designed a Gentoo based Linux system.
-  - ⚙️ Setup and used an Arch Linux development environment.
-  - 🚗 Used Fedora Linux on and off for quite some time.
-- I can code using a multitude of different programming languages.
-  - 👩‍🎓 Most experienced with C & C++.
-    - 🔺 For example, I wrote an OpenGL & Vulkan hello world triangle using C++. What started as a simple project evolved into something much more! Check out the repository here [vkx](https://github.com/wqvi/vkx).
-    - ℹ️ Written a statusbar for i3 & SwayWM in C. Check it out here [nowhere-status](https://github.com/wqvi/nowhere-status)
-    - 🟦 Used the GDExtension API for fun to interface with the Godot Game engine. [xplor-lib](https://github.com/wqvi/xplor-lib)
-    - 📚 Created a specialized fork for LWJGL2 to run natively on Wayland, enhancing the compatibility and performance for Linux users. Check out the project here [lwjgl2-wayland](https://github.com/wqvi/lwjgl2-wayland).
-  - ☕ Spent a year in AP Computer Science using Java.
-  - 🐍 Learnt to code with Python.
+# About me
+I am a self taught and experienced system administrator. I have been using Linux for 5 years and use Gentoo as my default. I am familiar with evaluating and solving issues in a computer system that have complex requirements and constraints. I use these skills to maintain a transparent, yet straightforward, computer system for myself.
